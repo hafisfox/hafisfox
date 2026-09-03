@@ -1,54 +1,61 @@
-<h1 align="center">Hi, I'm Hafis Javad</h1>
+<!--
+THESIS: A calm, systems-led GitHub portfolio that turns operational complexity into legible proof.
+OWN-WORLD: Deep teal, warm-white type, and a modular workflow map; no cyberpunk, terminal, or metric-dashboard motifs.
+STORY: Visitors see what Hafis builds, the outcomes it creates, and where to inspect or contact him.
+FIRST VIEWPORT: A branded workflow banner, direct role statement, four contact paths, and verified proof.
+FORM: GitHub-native editorial README with a custom SVG hero.
+-->
+
+<p align="center"><img src="./assets/hafis-workflow.svg" alt="Hafis Javad — Applied AI and Automation Engineer" width="100%" /></p>
 
 <p align="center">
-  <strong>Applied AI & Automation Engineer</strong><br />
-  I turn business workflows into production AI systems, integrations, and full-stack SaaS products.
+  <a href="https://www.linkedin.com/in/hafisjavad/"><strong>LinkedIn</strong></a> &nbsp;·&nbsp;
+  <a href="https://lokaxportfolio.cloud/"><strong>Portfolio</strong></a> &nbsp;·&nbsp;
+  <a href="https://lokanote.com/"><strong>Explore Loka Note</strong></a> &nbsp;·&nbsp;
+  <a href="mailto:hafisjavad9@gmail.com"><strong>Get in touch</strong></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hafisjavad/">LinkedIn</a> ·
-  <a href="https://lokaxportfolio.cloud/">Portfolio</a> ·
-  <a href="https://lokanote.com/">Loka Note</a> ·
-  <a href="mailto:hafisjavad9@gmail.com">Email</a>
-</p>
+<br />
 
-## What I build
+## I build AI systems that make work move
 
-- AI agents and workflow automations that remove repetitive operational work.
-- Full-stack SaaS products, CRMs, dashboards, APIs, and integrations.
-- AI-enabled systems that start with a real business process and improve after launch.
+I’m an Applied AI & Automation Engineer who turns business SOPs and workflow bottlenecks into production systems: AI agents, integrations, customer-facing SaaS, CRMs, dashboards, and the operations behind them.
 
-I combine hands-on technical delivery with customer discovery and workflow design—so the outcome is a system people can actually use, not just a demo.
+My edge is the full path from discovery to deployment—understanding the work first, building the system, then improving it after launch.
+
+<br />
 
 ## Selected work
 
 ### [Loka Note](https://lokanote.com/) — multilingual AI meeting intelligence
 
-A browser-based SaaS for recording meetings and turning conversations into transcripts, structured summaries, decisions, action items, searchable knowledge, and exports. It supports Myanmar, English, and Thai workflows, and has been used by 1,500+ registered professionals.
-
-### [Zamra Travels](https://lokaxportfolio.cloud/#work) — travel operations platform
-
-Built a custom backend, AI fare-intake pipeline, automated invoices and e-tickets, content-generation workflow, and B2B agent dashboard—removing approximately three hours of manual data entry per day.
+Browser-based recording, transcription, structured summaries, decisions, action items, transcript Q&A, search, exports, and meeting integrations. **Used by 1,500+ registered professionals; designed to save ~30 minutes of admin per one-hour meeting.**
 
 ### [ASCO Logistics](https://lokaxportfolio.cloud/#work) — freight RFQ and pricing automation
 
-Automated the flow from freight-RFQ intake through agent routing, quote collection, pricing, and delivery of the customer quote. The system reduced average quote turnaround to six minutes and delivered portfolio-reported labor savings of $20K per month.
+Automated RFQ intake, agent routing, quote collection, pricing, and delivery of the final customer quote. **Six-minute average quote turnaround; portfolio-reported labor savings of $20K per month.**
+
+### [Zamra Travels](https://lokaxportfolio.cloud/#work) — travel operations platform
+
+Built the backend, AI fare-intake pipeline, automated invoices and e-tickets, content workflows, and B2B agent dashboard. **Removed ~3 hours of manual data entry each day.**
 
 ### [DocAssist](https://lokaxportfolio.cloud/#work) — AI-assisted growth automation
 
-Built n8n workflows for lead sourcing, connection and conversation flows, warm-buyer handoff, and daily branded-content production. The client project was associated with 30% revenue growth and 25% follower growth.
+Built n8n workflows for lead sourcing, conversation flows, warm-buyer handoff, and branded-content production. **A project associated with 30% revenue growth and 25% follower growth.**
 
-## Working with
+<br />
 
-**Applied AI:** AI agents, LLM/API integration, transcript Q&A, retrieval, prompt-driven systems  
-**Automation:** n8n, webhooks, workflow orchestration, WhatsApp automation, third-party integrations  
-**Product engineering:** full-stack SaaS, REST APIs, CRMs, admin panels, dashboards, deployment, monitoring  
-**Platforms and data:** Vercel, Supabase, Neon, Google Cloud, databases, data pipelines, operational reporting
+## The systems I work with
 
-## Currently focused on
+**Applied AI** — AI agents · LLM/API integration · transcript Q&A · retrieval systems  
+**Automation** — n8n · webhooks · WhatsApp workflows · third-party integrations  
+**Product engineering** — full-stack SaaS · REST APIs · CRMs and dashboards · deployment and monitoring  
+**Platforms & data** — Vercel · Supabase · Neon · Google Cloud · data pipelines
 
-Building reliable AI and automation products for real operational workflows: clear inputs, useful outputs, measurable time savings, and continuous improvement after deployment.
+<br />
 
-## Let's connect
+## What I’m focused on now
 
-I'm based in Bangkok and open to Applied AI, AI Automation, Generative AI, and AI Solutions Engineering opportunities. The best first contact is [email](mailto:hafisjavad9@gmail.com) or [LinkedIn](https://www.linkedin.com/in/hafisjavad/).
+Reliable AI and automation products for real operational workflows: clear inputs, useful outputs, measurable time savings, and systems that get better after deployment.
+
+<p align="center"><a href="mailto:hafisjavad9@gmail.com"><strong>Work with me →</strong></a></p>
