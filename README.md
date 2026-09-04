@@ -6,9 +6,9 @@ The live artwork is served by GitAscii using gitascii.json in this repository ro
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gitascii.com/api/user/hafisfox?theme=dark&amp;v=1788498694" />
-    <source media="(prefers-color-scheme: light)" srcset="https://gitascii.com/api/user/hafisfox?theme=light&amp;v=1788498694" />
-    <img src="https://gitascii.com/api/user/hafisfox?v=1788498694" alt="Hafis Javad — Applied AI and Automation Engineer" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitascii.com/api/hafisfox?theme=dark&amp;v=1788498694" />
+    <source media="(prefers-color-scheme: light)" srcset="https://gitascii.com/api/hafisfox?theme=light&amp;v=1788498694" />
+    <img src="https://gitascii.com/api/hafisfox?v=1788498694" alt="Hafis Javad — Applied AI and Automation Engineer" width="100%" />
   </picture>
 </p>
 
