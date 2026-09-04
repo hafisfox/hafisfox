@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "githubId": 0,
+  "username": "hafisfox",
+  "profileSlug": "default",
+  "profileName": "Hafis — Systems in Motion",
+  "templateId": "hafis-systems-fieldbook",
+  "globalStyles": {
+    "backgroundColor": "#071D1D",
+    "transparentBackground": false,
+    "textColor": "#E7F5F2",
+    "accentColor": "#7DD3C7",
+    "borderColor": "#1E5656",
+    "fontFamily": "'JetBrains Mono', ui-monospace, monospace",
+    "borderRadius": 12,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "terminal"
+  },
+  "widgets": [
+    {
+      "instanceId": "hafis_ascii_title",
+      "widgetId": "ascii-text",
+      "name": "Systems in Motion Title",
+      "position": { "x": 0, "y": 0 },
+      "size": { "width": 800, "height": 108 },
+      "config": { "customText": "HAFIS", "asciiFont": "block", "charset": "default", "fontSize": 11, "accentColor": "#7DD3C7" },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1
+    },
+    {
+      "instanceId": "hafis_ascii_portrait",
+      "widgetId": "asciiprofile-portrait",
+      "name": "ASCII Portrait",
+      "position": { "x": 0, "y": 124 },
+      "size": { "width": 370, "height": 400 },
+      "config": {
+        "cols": 92,
+        "customCharset": " .`:-=+*cs#%@",
+        "rowDur": 0.08,
+        "stagger": 0.08,
+        "accentColor": "#7DD3C7",
+        "backgroundColor": "#0A2525",
+        "borderColor": "#1E5656",
+        "customTitle": "hafis@github: ~/systems/portrait",
+        "customWhoami": "Hafis / systems builder"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2
+    },
+    {
+      "instanceId": "hafis_systems_card",
+      "widgetId": "asciiprofile-info",
+      "name": "Systems Fieldbook",
+      "position": { "x": 388, "y": 124 },
+      "size": { "width": 412, "height": 400 },
+      "config": {
+        "infoHost": "hafis / systems-in-motion",
+        "customNow": "Applied AI & Automation Engineer",
+        "customAlso": "Co-Founder & CTO, Loka X.ai",
+        "customLoc": "Bangkok, Thailand",
+        "customSite": "lokanote.com",
+        "customLangs": "TypeScript, AI APIs",
+        "customFrontend": "SaaS, CRM, dashboards",
+        "customBackend": "n8n, Supabase, APIs",
+        "customBullet1": "Loka Note: 1,500+ registered users",
+        "customBullet2": "Freight RFQs: 6 min average turnaround",
+        "staticMode": false,
+        "accentColor": "#7DD3C7",
+        "backgroundColor": "#0A2525",
+        "borderColor": "#1E5656"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3
+    },
+    {
+      "instanceId": "hafis_activity_map",
+      "widgetId": "asciiprofile-heatmap",
+      "name": "Live Contribution Map",
+      "position": { "x": 0, "y": 542 },
+      "size": { "width": 800, "height": 240 },
+      "config": {
+        "accentColor": "#7DD3C7",
+        "backgroundColor": "#0A2525",
+        "borderColor": "#1E5656",
+        "palette": ["#0A2525", "#103A39", "#17605A", "#21857A", "#52B9AC", "#B7F0E7"]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4
+    }
+  ],
+  "metadata": {
+    "createdAt": "2026-09-04T00:00:00.000Z",
+    "updatedAt": "2026-09-04T00:00:00.000Z",
+    "schemaVersion": 1,
+    "generatedBy": "manual"
+  }
+}
