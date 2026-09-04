@@ -1,61 +1,53 @@
 <!--
-THESIS: A calm, systems-led GitHub portfolio that turns operational complexity into legible proof.
-OWN-WORLD: Deep teal, warm-white type, and a modular workflow map; no cyberpunk, terminal, or metric-dashboard motifs.
-STORY: Visitors see what Hafis builds, the outcomes it creates, and where to inspect or contact him.
-FIRST VIEWPORT: A branded workflow banner, direct role statement, four contact paths, and verified proof.
-FORM: GitHub-native editorial README with a custom SVG hero.
+GitAscii profile: “Systems in Motion”
+Visual direction: a deep-teal fieldbook for a builder who moves real operations through AI, APIs, and product systems.
+The live artwork is served by GitAscii using gitascii.json in this repository root.
 -->
 
-<p align="center"><img src="./assets/hafis-workflow.svg" alt="Hafis Javad — Applied AI and Automation Engineer" width="100%" /></p>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/hafisjavad/"><strong>LinkedIn</strong></a> &nbsp;·&nbsp;
-  <a href="https://lokaxportfolio.cloud/"><strong>Portfolio</strong></a> &nbsp;·&nbsp;
-  <a href="https://lokanote.com/"><strong>Explore Loka Note</strong></a> &nbsp;·&nbsp;
-  <a href="mailto:hafisjavad9@gmail.com"><strong>Get in touch</strong></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitascii.com/api/user/hafisfox?theme=dark&amp;v=1788498694" />
+    <source media="(prefers-color-scheme: light)" srcset="https://gitascii.com/api/user/hafisfox?theme=light&amp;v=1788498694" />
+    <img src="https://gitascii.com/api/user/hafisfox?v=1788498694" alt="Hafis Javad — Applied AI and Automation Engineer" width="100%" />
+  </picture>
 </p>
 
-<br />
+<p align="center">
+  <a href="https://www.linkedin.com/in/hafisjavad/"><strong>LinkedIn</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://lokaxportfolio.cloud/"><strong>Portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://lokanote.com/"><strong>Loka Note</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:hafisjavad9@gmail.com"><strong>Email</strong></a>
+</p>
 
-## I build AI systems that make work move
+## Building systems that make work move
 
-I’m an Applied AI & Automation Engineer who turns business SOPs and workflow bottlenecks into production systems: AI agents, integrations, customer-facing SaaS, CRMs, dashboards, and the operations behind them.
+Applied AI & Automation Engineer turning business workflows into production AI systems, integrations, customer-facing SaaS, CRMs, and operational dashboards.
 
-My edge is the full path from discovery to deployment—understanding the work first, building the system, then improving it after launch.
-
-<br />
+My work starts with how a business actually operates, then carries the system through delivery and improvement after launch.
 
 ## Selected work
 
 ### [Loka Note](https://lokanote.com/) — multilingual AI meeting intelligence
 
-Browser-based recording, transcription, structured summaries, decisions, action items, transcript Q&A, search, exports, and meeting integrations. **Used by 1,500+ registered professionals; designed to save ~30 minutes of admin per one-hour meeting.**
+Browser-based recording, transcription, structured summaries, decisions, action items, transcript Q&A, search, exports, and meeting integrations. **Used by 1,500+ registered professionals; designed to save approximately 30 minutes of admin per one-hour meeting.**
 
 ### [ASCO Logistics](https://lokaxportfolio.cloud/#work) — freight RFQ and pricing automation
 
-Automated RFQ intake, agent routing, quote collection, pricing, and delivery of the final customer quote. **Six-minute average quote turnaround; portfolio-reported labor savings of $20K per month.**
+Automated RFQ intake, agent routing, quote collection, pricing, and customer-quote delivery. **Six-minute average turnaround; portfolio-reported labor savings of $20K per month.**
 
 ### [Zamra Travels](https://lokaxportfolio.cloud/#work) — travel operations platform
 
-Built the backend, AI fare-intake pipeline, automated invoices and e-tickets, content workflows, and B2B agent dashboard. **Removed ~3 hours of manual data entry each day.**
+Built the backend, AI fare-intake pipeline, automated invoices and e-tickets, content workflows, and B2B agent dashboard. **Removed approximately three hours of manual data entry each day.**
 
 ### [DocAssist](https://lokaxportfolio.cloud/#work) — AI-assisted growth automation
 
 Built n8n workflows for lead sourcing, conversation flows, warm-buyer handoff, and branded-content production. **A project associated with 30% revenue growth and 25% follower growth.**
 
-<br />
+## Working with
 
-## The systems I work with
-
-**Applied AI** — AI agents · LLM/API integration · transcript Q&A · retrieval systems  
-**Automation** — n8n · webhooks · WhatsApp workflows · third-party integrations  
-**Product engineering** — full-stack SaaS · REST APIs · CRMs and dashboards · deployment and monitoring  
-**Platforms & data** — Vercel · Supabase · Neon · Google Cloud · data pipelines
-
-<br />
-
-## What I’m focused on now
-
-Reliable AI and automation products for real operational workflows: clear inputs, useful outputs, measurable time savings, and systems that get better after deployment.
+AI agents · LLM/API integration · n8n · webhooks · full-stack SaaS · REST APIs · CRMs and dashboards · Vercel · Supabase · Neon · Google Cloud · data pipelines
 
 <p align="center"><a href="mailto:hafisjavad9@gmail.com"><strong>Work with me →</strong></a></p>
