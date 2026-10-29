@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img"><title>Operations Systems: One place for what comes in, who decides and what happens next.</title>
+  <style>
+    .fade{opacity:0;animation:fade .9s ease forwards}
+    .rise{opacity:0;transform:translateY(18px);animation:rise 1s cubic-bezier(.16,1,.3,1) forwards}
+    @keyframes fade{to{opacity:1}}
+    @keyframes rise{to{opacity:1;transform:none}}
+    .icon{transform-box:fill-box;transform-origin:center;animation:breathe 4s ease-in-out 0.8s infinite}
+    @keyframes breathe{50%{opacity:.55}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}.fade{opacity:1}.rise{opacity:1;transform:none}}
+  </style>
+  <rect width="600" height="300" rx="20" fill="#ffffff"/>
+  <rect x=".5" y=".5" width="599" height="299" rx="19.5" fill="none" stroke="#0000001a"/>
+  <text x="40" y="58" font-family="'Inter Tight','Inter','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" letter-spacing=".5" fill="#6f6f6f">03</text>
+  <g transform="translate(496 34)" fill="none" stroke="#1f8f63" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon"><path d="M32 6l26 13-26 13L6 19z"/><path d="M6 32l26 13 26-13M6 45l26 13 26-13"/></g>
+  <text x="40" y="186" class="rise" font-family="'Inter Tight','Inter','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="38" font-weight="400" letter-spacing="-1.2" fill="#0d0d0d">Operations Systems</text>
+  <g font-family="'Inter Tight','Inter','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" fill="#6f6f6f" class="fade" style="animation-delay:.25s">
+    <text x="40" y="226">One place for what comes in,</text>
+    <text x="40" y="252">who decides and what happens next.</text>
+  </g>
+  <path d="M543 255l14-14m-10 0h10v10" fill="none" stroke="#0d0d0d" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity=".55"/>
+</svg>
