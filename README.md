@@ -1,53 +1,68 @@
 <!--
-GitAscii profile: “Systems in Motion”
-Visual direction: a deep-teal fieldbook for a builder who moves real operations through AI, APIs, and product systems.
-The live artwork is served by GitAscii using gitascii.json in this repository root.
+Profile README for github.com/hafisfox, matched to hafisfox.io:
+near-black / warm paper, mint accent, Inter Tight with italic serif.
+Banners live in assets/ (animated SVG, light and dark).
 -->
 
-<p align="center">
+<a href="https://hafisfox.io">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gitascii.com/api/hafisfox?theme=dark&amp;v=1788498694" />
-    <source media="(prefers-color-scheme: light)" srcset="https://gitascii.com/api/hafisfox?theme=light&amp;v=1788498694" />
-    <img src="https://gitascii.com/api/hafisfox?v=1788498694" alt="Hafis Javad — Applied AI and Automation Engineer" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
+    <img src="assets/hero-dark.svg" alt="Hafis Javad. From workflows to systems: operations that run themselves." width="100%" />
   </picture>
-</p>
+</a>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hafisjavad/"><strong>LinkedIn</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://lokaxportfolio.cloud/"><strong>Portfolio</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://lokanote.com/"><strong>Loka Note</strong></a>
-  &nbsp;·&nbsp;
-  <a href="mailto:hafisjavad9@gmail.com"><strong>Email</strong></a>
+  <a href="https://hafisfox.io"><strong>hafisfox.io</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://hafisfox.io/services">Services</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://hafisfox.io/work">Work</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://hafisfox.io/pricing">Pricing</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://hafisfox.io/about">About</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hafisjavad">LinkedIn</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:hafisjavad@gmail.com">Email</a>
 </p>
 
-## Building systems that make work move
+<br />
 
-Applied AI & Automation Engineer turning business workflows into production AI systems, integrations, customer-facing SaaS, CRMs, and operational dashboards.
+I'm Hafis, an applied AI and automation engineer in Bangkok and Co-Founder & CTO at LokaX AI.
 
-My work starts with how a business actually operates, then carries the system through delivery and improvement after launch.
+I take the way a business actually runs (the inboxes, spreadsheets, DMs and handoffs) and turn it into systems that keep working without someone watching them. I scope it, build it, ship it and stay on after launch. You talk to the person writing the code.
 
-## Selected work
+<br />
 
-### [Loka Note](https://lokanote.com/) — multilingual AI meeting intelligence
+## What I build
 
-Browser-based recording, transcription, structured summaries, decisions, action items, transcript Q&A, search, exports, and meeting integrations. **Used by 1,500+ registered professionals; designed to save approximately 30 minutes of admin per one-hour meeting.**
+| Capability | What it covers |
+|:--|:--|
+| **[AI Agents →](https://hafisfox.io/services#ai-agents)** | Agents that collect the context, draft the work and hand it to the right person. People stay in the loop where it matters. |
+| **[Automation →](https://hafisfox.io/services#automation)** | The repeat work across intake, messages, documents and reporting, running on its own with alerts when something fails. |
+| **[Operations Systems →](https://hafisfox.io/services#operations)** | One place for teams stuck between spreadsheets and inboxes: what comes in, who decides, what happens next. |
+| **[Product & SaaS →](https://hafisfox.io/services#product)** | Portals, CRMs and SaaS products, from first version to production. |
+| **[Integrations & APIs →](https://hafisfox.io/services#integrations)** | Webhooks, REST APIs and data pipelines with retries, validation and an audit trail. |
+| **[Dashboards →](https://hafisfox.io/services#dashboards)** | Live views built around the decisions you make each week. |
 
-### [ASCO Logistics](https://lokaxportfolio.cloud/#work) — freight RFQ and pricing automation
+<br />
 
-Automated RFQ intake, agent routing, quote collection, pricing, and customer-quote delivery. **Six-minute average turnaround; portfolio-reported labor savings of $20K per month.**
+## How I work
 
-### [Zamra Travels](https://lokaxportfolio.cloud/#work) — travel operations platform
+**Map** the real handoffs before writing anything&ensp;→&ensp;**Build** on the tools you already use&ensp;→&ensp;**Ship** in weeks, at a fixed price&ensp;→&ensp;**Run** it with monitoring, fixes and a monthly report
 
-Built the backend, AI fare-intake pipeline, automated invoices and e-tickets, content workflows, and B2B agent dashboard. **Removed approximately three hours of manual data entry each day.**
+<br />
 
-### [DocAssist](https://lokaxportfolio.cloud/#work) — AI-assisted growth automation
+## Toolbox
 
-Built n8n workflows for lead sourcing, conversation flows, warm-buyer handoff, and branded-content production. **A project associated with 30% revenue growth and 25% follower growth.**
+`TypeScript` `Next.js` `Supabase` `Postgres` `n8n` `OpenAI` `Claude` `WhatsApp Business API` `Webhooks` `Vercel` `Google Cloud`
 
-## Working with
+<br />
 
-AI agents · LLM/API integration · n8n · webhooks · full-stack SaaS · REST APIs · CRMs and dashboards · Vercel · Supabase · Neon · Google Cloud · data pipelines
-
-<p align="center"><a href="mailto:hafisjavad9@gmail.com"><strong>Work with me →</strong></a></p>
+<p align="center">
+  <a href="https://hafisfox.io/pricing"><strong>See fixed prices</strong></a>
+  &nbsp;&nbsp;or&nbsp;&nbsp;
+  <a href="https://hafisfox.io"><strong>book a call at hafisfox.io →</strong></a>
+</p>
